@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+
+
+body {
+	font-family: 'Redressed', cursive;
+	color: white;
+	text-align: center;
+}
+
+#god {
+	width: 750px;
+	height: auto;
+	background: black;
+	padding: 30px;
+	margin-top: 7em;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 30px;
+}
+
+#topo {
+
+}
+
+button {
+	background: white;
+	font-family: 'Redressed', cursive;
+	font-size: 12pt;
+	padding: 15px;
+}
+
+.input {
+	padding: 30px;
+}
+ 
+#res {
+	color: white;
+}
+
