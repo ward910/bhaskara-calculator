@@ -5,9 +5,10 @@ body {
 	font-family: 'Redressed', cursive;
 	color: white;
 	text-align: center;
+	margin: auto;
 }
 
-#god {
+#bhaskara {
 	width: 750px;
 	height: auto;
 	background: black;
@@ -18,19 +19,15 @@ body {
 	border-radius: 30px;
 }
 
-#topo {
-
-}
-
 button {
 	background: white;
 	font-family: 'Redressed', cursive;
 	font-size: 12pt;
-	padding: 15px;
+	padding: 20px;
 }
 
 .input {
-	padding: 30px;
+	padding: 40px;
 }
  
 #res {
